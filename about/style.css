@@ -33,3 +33,12 @@ a{
     right: 0;
     left: 1;
 }
+
+.box #a{
+    border: 1px solid #00a3ff;
+    padding: 1.5vh;
+    border-radius: 2vh;
+    margin-top: 10vh;
+    justify-content: center;
+
+}
