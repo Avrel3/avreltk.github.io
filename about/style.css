@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+TAS+Beginner&display=swap');
+
+:root{
+    --edu: 'Edu TAS Beginner', cursive;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.body{
+    margin: 0 7%;
+    box-sizing: border-box;
+}
+
+.body h1 a{
+    color: #00a3ff;
+    font-family: var(--edu);
+}
+
+.body h1 span{
+    margin: 0 7% 0 0;
+    position: absolute;
+    right: 0;
+    left: 1;
+}
