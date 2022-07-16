@@ -1,1 +1,1 @@
-console.log('About Page -Avrel')
+console.log('Oh! We have a programming interested visitor in the console');
